@@ -1,0 +1,13 @@
+C:\hong\Project\main\bin\Debug\main.exe.config
+C:\hong\Project\main\bin\Debug\main.exe
+C:\hong\Project\main\bin\Debug\main.pdb
+C:\hong\Project\main\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\hong\Project\main\obj\Debug\main.Form1.resources
+C:\hong\Project\main\obj\Debug\main.Form2.resources
+C:\hong\Project\main\obj\Debug\main.Form3.resources
+C:\hong\Project\main\obj\Debug\main.Form4.resources
+C:\hong\Project\main\obj\Debug\main.Properties.Resources.resources
+C:\hong\Project\main\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\hong\Project\main\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\hong\Project\main\obj\Debug\main.exe
+C:\hong\Project\main\obj\Debug\main.pdb
